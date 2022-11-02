@@ -19,9 +19,9 @@
     <br />
     <br />
     <a href="https://github.com/patricio-dsgn/demo-readme">View Demo 🚀</a>
-    •
+    
     <a href="https://github.com/patricio-dsgn/demo-readme/issues">Report Bug 🐞</a>
-    •
+    
     <a href="https://github.com/patricio-dsgn/demo-readme/issues">Request Feature 💬</a>
   </p>
 </div>
