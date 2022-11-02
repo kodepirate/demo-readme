@@ -1,3 +1,13 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
 
 ![a](https://img.shields.io/badge/by-pato-8f7)
 ![a](https://img.shields.io/static/v1?label=by&message=pato&color=78f&style=plastic)

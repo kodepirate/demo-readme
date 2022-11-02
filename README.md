@@ -1,13 +1,6 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -26,9 +19,9 @@
     <br />
     <br />
     <a href="https://github.com/patricio-dsgn/project-demo">View Demo</a>
-    ·
+    •
     <a href="https://github.com/patricio-dsgn/project-demo/issues">Report Bug</a>
-    ·
+    •
     <a href="https://github.com/patricio-dsgn/project-demo/issues">Request Feature</a>
   </p>
 </div>
