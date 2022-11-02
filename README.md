@@ -18,11 +18,11 @@
     <a href="https://github.com/patricio-dsgn/demo-readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/patricio-dsgn/demo-readme">View Demo</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme">View Demo 🚀</a>
     •
-    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Report Bug</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Report Bug 🐞</a>
     •
-    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Request Feature</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Request Feature 💬</a>
   </p>
 </div>
 
