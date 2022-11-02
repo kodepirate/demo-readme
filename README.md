@@ -222,7 +222,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
-[Python]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Python]: https://img.shields.io/badge/python-F7C41C?style=for-the-badge&logo=python&logoColor=3376AE
 [Python-url]: https://www.python.org/
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
