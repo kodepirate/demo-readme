@@ -3,8 +3,8 @@
 <!-- PROJECT SHIELDS -->
 
 
-<img src="readme/shields/shield-python.svg" alt="Logo" width="120">
-
+<img src="readme/shields/shield-python1.svg" alt="Logo" width="120">
+<br>
 <img src="readme/shields/shield-python2.svg" alt="Logo" width="120">
 
 
