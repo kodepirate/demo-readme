@@ -2,6 +2,9 @@
 
 <!-- PROJECT SHIELDS -->
 
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -83,6 +86,14 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+* [![html][html]][html-url]
+* [![css][css]][css-url]
+* [![sass][sass]][sass-url]
+* [![javascript][javascript]][javascript-url]
+* [![golang][golang]][golang-url]
+* [![Python][Python]][Python-url]
+* [![Python][Python]][Python-url]
+* [![Python][Python]][Python-url]
 * [![Python][Python]][Python-url]
 * [![Django][Django]][Django-url]
 * [![Next][Next.js]][Next-url]
@@ -222,6 +233,21 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+
+[html]: https://img.shields.io/badge/html5-F7C41C?style=for-the-badge&logo=html&logoColor=3376AE
+[html-url]: https://www.html.org/
+
+[css]: https://img.shields.io/badge/css3-F7C41C?style=for-the-badge&logo=css&logoColor=3376AE
+[css-url]: https://www.css.org/
+
+[sass]: https://img.shields.io/badge/sass-F7C41C?style=for-the-badge&logo=sass&logoColor=3376AE
+[sass-url]: https://www.sass.org/
+
+[javascript]: https://img.shields.io/badge/javascript-F7C41C?style=for-the-badge&logo=javascript&logoColor=3376AE
+[javascript-url]: https://www.javascript.org/
+
+[Python]: https://img.shields.io/badge/python-F7C41C?style=for-the-badge&logo=python&logoColor=3376AE
+[Python-url]: https://www.python.org/
 
 [Python]: https://img.shields.io/badge/python-F7C41C?style=for-the-badge&logo=python&logoColor=3376AE
 [Python-url]: https://www.python.org/
