@@ -2,9 +2,11 @@
 
 <!-- PROJECT SHIELDS -->
 
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
+
+<img src="readme/shields/shield-python.svg" alt="Logo" width="120">
+
+<img src="readme/shields/shield-python2.svg" alt="Logo" width="120">
+
 
 <!-- PROJECT LOGO -->
 <br />
