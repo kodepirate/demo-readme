@@ -1,3 +1,27 @@
+[contributors-shield]: https://img.shields.io/github/contributors/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[contributors-url]: https://github.com/patricio-dsgn/demo-readme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[forks-url]: https://github.com/patricio-dsgn/demo-readme/network/members
+[stars-shield]: https://img.shields.io/github/stars/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[stars-url]: https://github.com/patricio-dsgn/demo-readme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[issues-url]: https://github.com/patricio-dsgn/demo-readme/issues
+[license-shield]: https://img.shields.io/github/license/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[license-url]: https://github.com/patricio-dsgn/demo-readme/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/patricio-dsgn
+[product-screenshot]: images/screenshot.png
+
+
+
+
+
+
+
+
+
+
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
