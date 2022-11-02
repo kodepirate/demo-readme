@@ -6,23 +6,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/patricio-dsgn/project-demo">
+  <a href="https://github.com/patricio-dsgn/demo-readme">
     <img src="readme/img/logo.svg" alt="Logo" width="220">
   </a>
 
-  <h3 align="center">project-demo</h3>
+  <h3 align="center">demo-readme</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/patricio-dsgn/project-demo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/patricio-dsgn/demo-readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/patricio-dsgn/project-demo">View Demo</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme">View Demo</a>
     •
-    <a href="https://github.com/patricio-dsgn/project-demo/issues">Report Bug</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Report Bug</a>
     •
-    <a href="https://github.com/patricio-dsgn/project-demo/issues">Request Feature</a>
+    <a href="https://github.com/patricio-dsgn/demo-readme/issues">Request Feature</a>
   </p>
 </div>
 
@@ -154,7 +154,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/patricio-dsgn/project-demo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/patricio-dsgn/demo-readme/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,16 +218,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/patricio-dsgn/project-demo.svg?style=for-the-badge
-[contributors-url]: https://github.com/patricio-dsgn/project-demo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/patricio-dsgn/project-demo.svg?style=for-the-badge
-[forks-url]: https://github.com/patricio-dsgn/project-demo/network/members
-[stars-shield]: https://img.shields.io/github/stars/patricio-dsgn/project-demo.svg?style=for-the-badge
-[stars-url]: https://github.com/patricio-dsgn/project-demo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/patricio-dsgn/project-demo.svg?style=for-the-badge
-[issues-url]: https://github.com/patricio-dsgn/project-demo/issues
-[license-shield]: https://img.shields.io/github/license/patricio-dsgn/project-demo.svg?style=for-the-badge
-[license-url]: https://github.com/patricio-dsgn/project-demo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[contributors-url]: https://github.com/patricio-dsgn/demo-readme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[forks-url]: https://github.com/patricio-dsgn/demo-readme/network/members
+[stars-shield]: https://img.shields.io/github/stars/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[stars-url]: https://github.com/patricio-dsgn/demo-readme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[issues-url]: https://github.com/patricio-dsgn/demo-readme/issues
+[license-shield]: https://img.shields.io/github/license/patricio-dsgn/demo-readme.svg?style=for-the-badge
+[license-url]: https://github.com/patricio-dsgn/demo-readme/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/patricio-dsgn
 [product-screenshot]: images/screenshot.png
