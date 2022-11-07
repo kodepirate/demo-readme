@@ -8,7 +8,7 @@
 </style>
 <rect class="st0" width="93.7" height="120"/>
 <rect x="93.7" class="st1" width="6.3" height="20"/>
-  <text x="0" y="15" fill="red">I love SVG!</text>
+  <text x="0" y="15" fill="#000">I love SVG!</text>
 
 </svg>
 
