@@ -8,7 +8,7 @@
 <img src="readme/img/icon1.svg" alt="Logo" width="120">
 
 <br><br><br><br><br><br>
-<img src="readme/img/shield4.svg" alt="Logo" width="120">
+<img src="readme/img/logo.svg" alt="Logo" width="120">
 
 <img src="readme/img/g4.gif" alt="Logo" width="220">
 
