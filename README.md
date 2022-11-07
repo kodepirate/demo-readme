@@ -1,6 +1,9 @@
 
 
-<div style="color:#f07; backgroung-color:#07f">holaaaa</div>
+<div style="background-color:blue">hola</div>
+<div style="background-color:#0077ff">hola</div>
+<div style="color:#ff0077">hola</div>
+<div style="color:red">hola</div>
 
 
 <br><br><br><br><br><br>
